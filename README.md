@@ -1,1 +1,1 @@
-# c-alistirmalar
+# c-alistirmalar daha bitmedi
