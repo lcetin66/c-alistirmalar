@@ -1,1 +1,1 @@
-# c-alistirmalar daha bitmedi.
+# c-alistirmalar daha bitmedi. Kisa zamanda yüklenecek
