@@ -1,1 +1,1 @@
-# c-alistirmalar daha bitmedi. Kisa zamanda yüklenecek. Henüz hayırlık aşamasında. 
+# c-alistirmalar daha bitmedi. Kisa zamanda yüklenecek.
